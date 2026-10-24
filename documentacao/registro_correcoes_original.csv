@@ -1,0 +1,8 @@
+﻿Data,Componente,Alteração
+21/10/2026,IPCA 2022,"Corrigido de 5,78 para 5,79 conforme publicação oficial do IBGE."
+21/10/2026,IPCA 2016–2025,Conferidas taxas anuais contra tabela histórica do IBGE; refeitos fatores para 2025.
+21/10/2026,PTAX 2016,Identificado arquivo de janeiro–junho; retirado alerta incorreto de cobertura incompleta.
+21/10/2026,PTAX 2016–2025,"Recalculadas médias anuais e cotações de encerramento a partir de arquivos CSV originais, sem datas duplicadas."
+21/10/2026,Suíça dívida,Separada conversão de estoque (câmbio de encerramento) da conversão de fluxos (câmbio médio).
+21/10/2026,IBGE,Lacunas de população e PIB mantidas sem imputação.
+21/10/2026,Auditoria FINBRA,"Reproduzido resultado da auditoria independente anterior, com pendências explicitadas."

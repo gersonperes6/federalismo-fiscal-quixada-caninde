@@ -1,0 +1,6 @@
+﻿Escopo,Variável,Período,Tratamento,Justificativa / impacto
+Quixadá e Canindé,População municipal,Anos sem registro na tabela IBGE 6579 (identificados na base),Manter vazio; não imputar zero nem estimar,Indicadores por habitante não são calculados nesses exercícios. A lacuna é admitida pelo enunciado e fica explicitada.
+Quixadá e Canindé,PIB municipal,Anos sem registro na tabela IBGE 5938 (identificados na base),Manter vazio; não imputar zero nem estimar,Razões fiscais / PIB ficam sem cálculo nesses exercícios. Não comparar percentuais com denominador ausente.
+Municípios,Contas fiscais com mapeamento inconclusivo,Conforme abas de auditoria e pendências,Manter ressalva e rastreabilidade; não classificar como validado,Ausência de identificação contábil não é equivalente a valor zero.
+Suíça,Dados fiscais de 2025,2025,Manter indicação de status a confirmar junto à FFA,"Se forem estimativas, usar com marcação explícita e não misturar com observações definitivas sem ressalva."
+Todos,Critério da prova,2016–2025,Preservar série temporal e explicitar indisponibilidades,Lacunas são aceitas conforme orientação do usuário sobre o enunciado; não alterar a série original.

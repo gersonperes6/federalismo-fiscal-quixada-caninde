@@ -1,0 +1,11 @@
+﻿Ano,IPCA oficial %,Fator para dez/2025,Fonte,Critério
+2016,6.29,1.5503578424915874,"IBGE, IPCA/INPC, fev. 2026",Fator = produto(1+IPCA/100) dos anos seguintes até 2025
+2017,2.95,1.5059328241783265,"IBGE, IPCA/INPC, fev. 2026",Fator = produto(1+IPCA/100) dos anos seguintes até 2025
+2018,3.75,1.4515015172803145,"IBGE, IPCA/INPC, fev. 2026",Fator = produto(1+IPCA/100) dos anos seguintes até 2025
+2019,4.31,1.3915267158281226,"IBGE, IPCA/INPC, fev. 2026",Fator = produto(1+IPCA/100) dos anos seguintes até 2025
+2020,4.52,1.3313497089821305,"IBGE, IPCA/INPC, fev. 2026",Fator = produto(1+IPCA/100) dos anos seguintes até 2025
+2021,10.06,1.2096581037453484,"IBGE, IPCA/INPC, fev. 2026",Fator = produto(1+IPCA/100) dos anos seguintes até 2025
+2022,5.79,1.143452220196,"IBGE, IPCA/INPC, fev. 2026",Fator = produto(1+IPCA/100) dos anos seguintes até 2025
+2023,4.62,1.09295758,"IBGE, IPCA/INPC, fev. 2026",Fator = produto(1+IPCA/100) dos anos seguintes até 2025
+2024,4.83,1.0426,"IBGE, IPCA/INPC, fev. 2026",Fator = produto(1+IPCA/100) dos anos seguintes até 2025
+2025,4.26,1,"IBGE, IPCA/INPC, fev. 2026",Fator = produto(1+IPCA/100) dos anos seguintes até 2025

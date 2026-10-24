@@ -1,0 +1,13 @@
+﻿Indicador,Fórmula conceitual,Aplicação e ressalvas
+Valor real BR (2025),"Valor nominal ano t × PRODUTO(1+IPCA_k/100), k=t+1,…,2025",Deflator IPCA anual; valores referidos ao fechamento de 2025.
+Receita real per capita,Receita real / população do ano,Só se população > 0 e disponível.
+Despesa real per capita,Despesa empenhada real / população do ano,Só se população > 0 e disponível.
+Dependência de transferências,Transferências correntes / receitas exceto intraorçamentárias,Indicador restrito às transferências correntes identificadas.
+Esforço tributário (proxy),Impostos e taxas / receitas exceto intraorçamentárias,Não representa toda a arrecadação própria.
+Despesa municipal / PIB,Despesa empenhada (R$) / (PIB municipal em mil R$ × 1000),Denominador ausente implica indicador vazio.
+Educação / despesa,Despesa empenhada em educação / despesa total empenhada,Verificar cobertura intraorçamentária e função.
+Saúde / despesa,Despesa empenhada em saúde / despesa total empenhada,Verificar cobertura intraorçamentária e função.
+"Valor real Suíça (CHF, 2025)",Valor nominal CHF ano t × (IPC suíço 2025 / IPC suíço t),"Ano-base 2025, índice suíço."
+Fluxos CHF → BRL,Fluxo em CHF × média anual PTAX venda BRL/CHF,Aplicável a receitas e despesas; não representa paridade de poder de compra.
+Estoque CHF → BRL,Dívida em CHF × PTAX venda do último dia disponível do ano,"Aplicável a dívida, não a fluxos."
+Razões suíças / PIB,Numerador CHF / PIB CHF em escala consistente,Confirmar unidade e conceito no arquivo de origem.

@@ -1,0 +1,20 @@
+﻿Tema,"Definição, fonte e ressalva"
+Escopo,"Quixadá/CE, Canindé/CE e Suíça; exercícios 2016–2025."
+Fontes fiscais municipais,"Siconfi/FINBRA, DCA anexos I-C (receitas), I-D (despesas), I-E (despesas por função). Arquivos ZIP originais preservados no histórico."
+Fontes demográficas,IBGE SIDRA tabelas 6579 (população estimada) e 5938 (PIB municipal); unidades e anos conforme arquivos recebidos.
+IPCA,"IBGE, fascículo IPCA/INPC de fevereiro de 2026, série histórica dos acumulados anuais; https://ftp.ibge.gov.br/Precos_Indices_de_Precos_ao_Consumidor/INPC/Fasciculo_Indicadores_IBGE/ipca-inpc_202602caderno.pdf"
+IPCA 2022,"Corrigido de 5,78% (referência anterior) para 5,79% (série anual oficial publicada pelo IBGE)."
+Deflator Brasil,"Valores anuais a preços de dezembro de 2025: multiplicar por produto dos fatores de inflação dos anos posteriores ao ano de referência. Aproximação por fechamento anual, não média anual de preços."
+Fonte fiscal Suíça,"Administração Federal das Finanças (FFA), arquivo staat-e.xlsx, estatísticas GFS governo geral. Valores originais preservados nas abas anteriores."
+Fonte macro Suíça,"Banco Mundial WDI, arquivo P_Data_Extract_From_World_Development_Indicators.xlsx."
+Câmbio,"Banco Central do Brasil, arquivos CotacoesMoedasPeriodo*.csv. Cotação de venda BRL por CHF. Duplicatas por data removidas; média aritmética dos dias com observação."
+PTAX 2016,O arquivo CotacoesMoedasPeriodo.csv contém janeiro–junho de 2016. Cobertura completa: 251 observações únicas em 2016; a ressalva anterior de semestre faltante estava incorreta.
+Dívida em BRL,Dívida é estoque: conversão pelo câmbio do último dia disponível do ano. Receitas/despesas são fluxos: média anual.
+Comparação real internacional,Valores em CHF corrigidos pelo IPC suíço a 2025 e convertidos pelo câmbio médio de 2025; não equivalem a PPC nem eliminam diferenças de poder de compra entre países.
+IBGE ausências,População ausente em 2022–2023 e PIB municipal ausente em 2024–2025 na base recebida; não preencher com zero.
+FINBRA classificação,Os valores de receitas próprias/transferências existentes na aba Municipios_corrigidos ainda exigem validação independente para exercícios sem identificação completa das contas.
+Auditoria independente,Aba FINAL_Auditoria_FINBRA preserva o resultado da reconciliação independente já realizada; não implica validação total de todas as variáveis.
+Suíça 2025,Confirmar nas notas da FFA se valores de 2025 são estimados/provisórios. Não rotular como definitivos sem comprovação.
+Ano-base,2025 para valores monetários reais brasileiros e suíços.
+Regra dados ausentes,Sem imputação; células vazias indicam não disponibilidade ou impossibilidade de confirmação.
+Situação de entrega,"Base consolidada e corrigida para IPCA/câmbio, com ressalvas documentadas. Não afirmar que toda a série está integralmente validada."
